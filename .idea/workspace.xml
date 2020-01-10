@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d51998-2934-4fec-a9db-4a596119bcaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FavoriteNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FavoriteNumber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/FavoriteNumber.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FavoriteNumber.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578667286002</updated>
       <workItem from="1578667288794" duration="344000" />
-      <workItem from="1578667948131" duration="1782000" />
+      <workItem from="1578667948131" duration="2785000" />
     </task>
     <servers />
   </component>
