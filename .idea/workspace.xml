@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d51998-2934-4fec-a9db-4a596119bcaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/GreetingLoader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GreetingLoader.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HiddenMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HiddenMessage.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <updated>1578667286002</updated>
       <workItem from="1578667288794" duration="344000" />
       <workItem from="1578667948131" duration="3973000" />
-      <workItem from="1578910596821" duration="7564000" />
+      <workItem from="1578910596821" duration="10928000" />
     </task>
     <servers />
   </component>
