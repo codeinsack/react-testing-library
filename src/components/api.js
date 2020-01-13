@@ -26,7 +26,9 @@ async function fetchRandomGreeting() {
 // for componentDidCatch
 async function reportError() {
   await sleep(1000)
-  return {success: true}
+  return {
+    success: true,
+  }
 }
 
 export {
